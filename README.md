@@ -1,3 +1,5 @@
+Build for the educational purpose only
+- Daksh Garg
 # Rubik's-Cube
 A Rubik's Cube Simulator Made Through Unity
 
